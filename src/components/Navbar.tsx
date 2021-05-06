@@ -2,7 +2,7 @@ import React from "react";
 
 export const Navbar: React.FC = () => (
   <nav>
-    <div className="nav-wrapper">
+    <div className="nav-wrapper px1">
       <a href="/" className="brand-logo">
         REACT+TS
       </a>
